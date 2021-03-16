@@ -1,0 +1,11 @@
+﻿  Tetris.cpp
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(133,5): error C2065: 'screen': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(139,6): error C2065: 'screen': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(142,15): error C2065: 'screen': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(148,32): error C2065: 'hConsole': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(148,42): error C2065: 'screen': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(148,90): error C2065: 'dwBytesWritten': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(163,31): error C2065: 'hConsole': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(163,41): error C2065: 'screen': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(163,89): error C2065: 'dwBytesWritten': undeclared identifier
+C:\Users\Brodie\Documents\Source\Tetris\Tetris\Src\Tetris.cpp(167,14): error C2065: 'hConsole': undeclared identifier
